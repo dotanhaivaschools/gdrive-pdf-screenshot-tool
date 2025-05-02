@@ -1,5 +1,4 @@
 streamlit
-streamlit-autorefresh
-selenium
+selenium==4.19.0
 webdriver-manager
-Pillow
+pillow
